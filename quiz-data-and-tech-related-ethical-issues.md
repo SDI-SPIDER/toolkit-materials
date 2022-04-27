@@ -1,4 +1,4 @@
-#Quiz for plunging students into the concepts of "ethics", "data" and "technology":
+# Quiz for plunging students into the concepts of "ethics", "data" and "technology":
  
 **Q1** _Which is the most accurate statement about data?_
 

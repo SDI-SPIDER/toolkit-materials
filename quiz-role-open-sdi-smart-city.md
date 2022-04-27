@@ -1,4 +1,4 @@
-#Quiz about the role of open SDI in smart city
+# Quiz about the role of open SDI in smart city
 
 **Q1** _What is the most correct understanding of sustainability?_
 

@@ -1,4 +1,4 @@
-#Quiz covering all three frameworks on tech innovation by different geopolitical actors:
+# Quiz covering all three frameworks on tech innovation by different geopolitical actors:
 
 **Q1** _Choose the most accurate statement._
 

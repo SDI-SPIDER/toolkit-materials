@@ -1,4 +1,4 @@
-#Quiz for plunging into the definition, technological aspects and ethical concerns of/on digital twin(ning):
+# Quiz for plunging into the definition, technological aspects and ethical concerns of/on digital twin(ning):
 
 **Q1** _Choose the most accurate statement._
 

@@ -1,4 +1,4 @@
-#Quiz about data commons in the context of SDI
+# Quiz about data commons in the context of SDI
 
 **Q1** _Managing health data:_
 
@@ -34,7 +34,7 @@
 
 ```[X]``` These two regimes can coexist on a contextual basis.
 
-#Quiz for debation about data commons
+# Quiz for debation about data commons
 
 **Q1** _INSPIRE and Open Street Maps:_
 
